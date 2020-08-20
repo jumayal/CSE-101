@@ -1,0 +1,10 @@
+Juan Ayala, jumaayal
+2020 Spring CSE101 PA7
+
+Down bellow are the files included:
+List.h      header file for List ADT
+List.cpp    List ADT Implimented with c++
+ListTest.c  Dictionary client to test list ADT
+Shuffle.c   takes input and shuffles
+Makefile    makefile to compile easily
+README      holds list of files turned in and brief descriptions

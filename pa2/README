@@ -1,0 +1,12 @@
+Juan Ayala, jumaayal
+2020 Spring CSE101 PA2
+
+Arithmetic.c      Impliments ADT for simple calculations
+BigInteger.c      BigInteger
+BigInteger.h      BigInteger ADT header
+BigIntegerTest.c  test file for Biginteger ADT
+List.h          header file for list ADT
+List.c          list ADT
+ListTest.c      test list ADT
+Makefile        makefile to compile easily
+README          holds list of files turned in and brief descriptions

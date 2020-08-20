@@ -1,0 +1,10 @@
+Juan Ayala, jumaayal
+2020 Spring CSE101 PA5
+
+Down bellow are the files included:
+Dictionary.h        header file for Dictionary ADT
+Dictionary.c        Dictionary ADT
+DictionaryTest.c  Dictionary client to test list ADT
+Lex.c         orders text within a text in lexological order
+Makefile      makefile to compile easily
+README        holds list of files turned in and brief descriptions

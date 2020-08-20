@@ -1,0 +1,12 @@
+Juan Ayala, jumaayal
+2020 Spring CSE101 PA4
+
+Down bellow are the files included:
+Graph.h     Header file for Graph ADT
+Graph.c     Functions for managing Graph
+GraphTest.c Tests the functions of Graph
+FindComponents.c  Finds a file of inputs and returns strong
+List.h      List Header ADT
+List.c      List ADT
+Makefile    Make file
+README      List of all files turning in
